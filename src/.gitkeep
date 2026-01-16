@@ -1,1 +1,29 @@
+"""
+Resume Matcher & Skill Analyzer
+Author: Tiasha Roy
+"""
+
+def extract_text_from_pdf(pdf_path):
+    """
+    Extract text from a PDF file.
+    """
+    pass
+
+
+def extract_skills(text):
+    """
+    Extract skills from given text.
+    """
+    pass
+
+
+def calculate_match(resume_skills, job_skills):
+    """
+    Calculate match percentage between resume and job skills.
+    """
+    pass
+
+
+if __name__ == "__main__":
+    print("Resume Matcher initialized successfully")
 
